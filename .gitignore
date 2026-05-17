@@ -1,1 +1,4 @@
 # Diabetes Prediction MLOps Assignment
+.DS_Store
+.idea/
+__pycache__/
